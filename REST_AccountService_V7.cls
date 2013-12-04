@@ -1,6 +1,6 @@
 /****************************************************************************************************
  * Description - Sample Apex REST service with GET and POST methods
- * Author - Matthew Lamb
+ * Author - Matthew Lamb    
  * Inspiration taken from Mohit Srivastav @ cloudyworlds.blogspot.in
  * Original source blog post: http://cloudyworlds.blogspot.in/2012/11/native-parsing-of-json-input-into-user.html
  * Example request:
